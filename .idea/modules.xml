@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/PGO 6 cw3.iml" filepath="$PROJECT_DIR$/PGO 6 cw3.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/PGO 6 cw1.iml" filepath="$PROJECT_DIR$/PGO 6 cw1.iml" />
+>>>>>>> 7e7d4db2b547c1fcbefa4134c9aac53077765e7b
     </modules>
   </component>
 </project>
